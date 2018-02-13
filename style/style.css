@@ -1,0 +1,47 @@
+body {
+	background-color: #f4f4f4;
+	font-family: "Arial";
+	font-size: 12px;
+	padding: 20px;
+}
+
+over {
+	
+	fill: #000000;
+}
+
+#infowindow {
+	
+	height: 100px;
+	position: fixed;
+	
+	
+}
+
+
+#note {
+	
+	font-size: 10px;
+	color:#aaaaaa;
+	bottom:20px;
+	position:fixed;
+	
+}
+
+
+#linked {
+	
+	font-size: 11px;
+	color:#666666;
+	top:120px;
+	position:fixed;
+	
+}
+
+#mendeley {
+	
+	font-size: 11px;
+	color:#666666;
+	position:fixed;
+	
+}
